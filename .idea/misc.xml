@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_ic_call_24.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_baseline_call_made_24.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/shape_button_send_otp.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/shape_call_background.xml" value="0.1405" />
+        <entry key="app/src/main/res/drawable/shape_image_background.xml" value="0.164" />
+        <entry key="app/src/main/res/layout/activity_call.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_contact.xml" value="0.24130618330361187" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_otpactivity.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_recent_call.xml" value="0.26138458251953123" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_splash_activty.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_upload_details.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/ic_baseline_camera_alt_24.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/item_contact.xml" value="0.3011688232421874" />
+        <entry key="app/src/main/res/layout/item_image_upload.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/item_recent_call.xml" value="0.3220700883333928" />
+        <entry key="app/src/main/res/menu/profile_menu.xml" value="0.28923076923076924" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.164" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

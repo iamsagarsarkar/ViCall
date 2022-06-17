@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451722891387",
+    "project_id": "vicallsg",
+    "storage_bucket": "vicallsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451722891387:android:7c4226bce8497e87f812de",
+        "android_client_info": {
+          "package_name": "com.example.vicall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451722891387-r1qr72qjf4nq43370kgq9n6tp0tt3eje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vicall",
+            "certificate_hash": "a61983fad2f4efee2d4407b536d85b256b619e78"
+          }
+        },
+        {
+          "client_id": "451722891387-6obhqu4rf0doof9ct6jcpgubp84lkdlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PSyYyQQIVS9w0H_900FeFIIo-MSUlkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451722891387-6obhqu4rf0doof9ct6jcpgubp84lkdlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

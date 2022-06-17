@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vicall</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="profile">Profile</string>
+</resources>
